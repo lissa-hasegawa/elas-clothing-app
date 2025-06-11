@@ -15,13 +15,11 @@ O aplicativo apresenta os principais produtos da marca, informações institucio
 - **Gradle** para gerenciamento de dependências
 
 ## Requisitos Funcionais 
-RF1 - O aplicativo deve permitir que o usuário realize cadastro informando os atributos: nome, e-mail, CPF e senha.
+RF1 - O aplicativo deve permitir que o usuário realize cadastro informando os atributos: nome, e-mail, CPF, endereço e senha.
 
 RF2 - O aplicativo deve permitir que o usuário faça login utilizando e-mail e senha.
 
 RF3 - O aplicativo deve permitir que o usuário faça o cadastro de novos produtos informando os atributos: nome, foto do produto, tamanho, cor e descrição.
-
-RF4 - Ao colocar o produto à venda, o usuário deve informar a localização onde se encontra para que os compradores estejam cientes da distância.
 
 ## Requisitos Não Funcionais
 ### Segurança
